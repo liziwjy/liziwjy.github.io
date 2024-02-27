@@ -1,18 +1,18 @@
 # Site settings
 title: lizi Blog
 SEOTitle: 黎梓的博客 | lizi Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/jmqs.webp
 email: 3225960858@qq.com
 description: "Every failure is leading towards success."
 keyword: "lizi, lizi Blog, 黎梓的博客, qiubaiying"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+url: "http://liziwjy.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/liziwjy/liziwjy.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "From small beginnings comes great things. "
-sidebar-avatar: /img/avatar-m      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/jmqs.webp      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
